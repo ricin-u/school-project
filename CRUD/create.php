@@ -14,8 +14,8 @@
             <hr>
             <ul>
                 <li><a href="../index.php">home</a></li>
-                <li><a href="profile.php">profile</a></li>
-                <li><a href="artikel.php">article</a></li>
+                <li><a href="../profile.php">profile</a></li>
+                <li><a href="../artikel.php">article</a></li>
                 <!-- <li><a href="#">Tambah Data</a></li> -->
             </ul>
             <hr>
@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="footer">
-            <div class="copy">Copyright 2023. Ibrahim Bintang</div>
+            <div class="copy">Copyright 2023. Copyright Holder</div>
         </div>
     </div>
 </body>

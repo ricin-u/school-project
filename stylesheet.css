@@ -48,7 +48,7 @@ a:hover{
     font-family: Arial;
 }
 
-.main a:hover{
+.main .link a:hover{
     background-color: lightblue;
     color: blue;
 }

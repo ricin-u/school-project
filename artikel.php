@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="footer">
-            <div class="copy">Copyright 2023. Ibrahim Bintang</div>
+            <div class="copy">Copyright 2023. Copyright holder</div>
         </div>
     </div>
 </body>

@@ -30,7 +30,9 @@
                 <p>Also, this website if it is ever going to be aired, and you have suggestions to add, please email ibrahimbintangef@gmail.com. Thank you.</p>
             </div> -->
             <div class="main">
-                <a href="CRUD/create.php">+ Tambah Siswa</a>
+                <div class="link">
+                    <a href="CRUD/create.php">+ Tambah Siswa</a>
+                </div>
                 <table class="table">
                     <tr class="table">
                         <th>No</th>
@@ -68,7 +70,7 @@
             </div>
         </div>
         <div class="footer">
-            <div class="copy">Copyright 2023. Ibrahim Bintang</div>
+            <div class="copy">Copyright 2023. Copyright holder</div>
         </div>
     </div>
 </body>
